@@ -14,8 +14,9 @@ module.exports = {
       'silver': '#ecebff',
       'bubble-gum': '#ff77e9',
       'bermuda': '#78dcca',
-      'dark-black' : '#0000',
+      'black' : '#0000',
       'mid-black' : '#626262',
+      'hover-button' : "#69C5AC",
       transparent: 'transparent',
     },
     extend: {

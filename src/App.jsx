@@ -6,7 +6,7 @@ import "./index.css";
 function App() {
   return (
     <>
-      <div className="px-2 py-3 font-Roboto">
+      <div className="font-Roboto">
         <Navbar />
         <Body />
         <Value/>

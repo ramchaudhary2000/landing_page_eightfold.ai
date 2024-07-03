@@ -1,12 +1,12 @@
 {
-  "homepage": "https://github.com/ramchaudhary2000/landing_page_eightfold",
+  "homepage": "https://ramchaudhary2000.github.io/landing_page_eightfold.ai",
   "name": "eightfold-ai",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run dev",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
